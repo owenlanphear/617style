@@ -26,10 +26,15 @@ body {
 
 .body {
   top: 12%;
+  position: relative;
 }
 
 p {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.slideshow p{
+  margin-bottom: 0;
 }
 
 .slideshow {
