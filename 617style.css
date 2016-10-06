@@ -11,8 +11,15 @@
 }
 
 .body {
+  margin-left: 0;
+  margin-right: 0;
 }
 
 p {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.slideshow {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
