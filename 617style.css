@@ -3,12 +3,12 @@
   border: 1px solid black;
   margin-left: 5px;
   margin-right: 5px;
+  padding: 10px;
 }
 
 .heading {
-  background-color: #AB987A;
+  background-color: #C06014;
 }
 
 .body {
-  background-color: #F5F5F5;
 }
