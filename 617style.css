@@ -13,8 +13,8 @@
 }
 
 .heading {
-  background-color: #C06014;
-  box-shadow: 0px 7px 7px #888888;
+  background-color: #F5F5F5;
+  box-shadow: 0px 9px 20px #000000;
   z-index: 10;
   position: fixed;
   width: 100%;
@@ -42,14 +42,19 @@ p {
 .slideshow {
   background-image: url(http://owenlanphear.github.io/617style/3lZX3wM.jpg);
   margin-top: 0;
+  color: whitesmoke;
+  background-size: 100%;
+  background-position: 72%;
+  height: 300px;
 }
 
 .content {
-  box-shadow: 0px -5px 7px #888888;
+  box-shadow: 0px -5px 7px #000000;
 }
 .content h1 {
   margin-top: 0;
 }
 .slideshow h1 {
   margin-top: 0;
+  padding-top: 15px;
 }
