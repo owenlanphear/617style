@@ -16,11 +16,16 @@
   background-color: #C06014;
   box-shadow: 0px 7px 7px #888888;
   z-index: 10;
-  position: relative;
+  position: fixed;
+  width: 100%;
 }
 
 body {
   margin: 0;
+}
+
+.body {
+  top: 12%;
 }
 
 p {
