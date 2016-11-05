@@ -12,14 +12,14 @@
 }
 .nav ul {
   text-align: center;
-  margin-bottom: 0;
+  margin-bottom: 7px;
 }
 .nav a{
   text-decoration: none;
   color: #000000;
 }
 .nav a:hover{
-  border-bottom: black, solid;
+  border-bottom: solid;
   transition: .05s;
 }
 
