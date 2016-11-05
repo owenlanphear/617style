@@ -12,6 +12,7 @@
 }
 .nav ul {
   text-align: center;
+  margin-bottom: 0;
 }
 .nav a{
   text-decoration: none;
@@ -19,7 +20,7 @@
 }
 .nav a:hover{
   color: #C06014;
-  transition: 1;
+  transition: .1s;
 }
 
 /*HEADING ITEMS*/
