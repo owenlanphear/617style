@@ -79,7 +79,7 @@
 }
 
 .grid-column {
-
+  width: 33%;
 }
 
 .grid-teaser {
@@ -92,6 +92,10 @@
 
 a.thumbnail {
 
+}
+
+.thumbnail img {
+  width: 100%;
 }
 
 a.grid-link {
