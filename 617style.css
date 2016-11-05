@@ -19,14 +19,13 @@
   color: #000000;
 }
 .nav a:hover{
-  color: #C06014;
-  transition: .1s;
+  border-bottom: black, solid;
+  transition: .05s;
 }
 
 /*HEADING ITEMS*/
 .heading {
   background-color: #F5F5F5;
-  box-shadow: 0px 9px 20px #000000;
   z-index: 10;
   position: fixed;
   width: 100%;
